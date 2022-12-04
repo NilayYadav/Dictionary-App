@@ -1,0 +1,19 @@
+.Phonetic .playIcon {
+  margin: 5px 5px 0 0;
+  font-size: 35px;
+  color: #842029;
+}
+
+.Phonetic .playIcon:hover {
+  margin: 5px 5px 0 0;
+  font-size: 35px;
+  color: #55141a;
+  transition: all 200ms ease-in-out;
+}
+
+.Phonetic .text {
+  color: #842029;
+  display: inline;
+  position: relative;
+  top: -8px;
+}

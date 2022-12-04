@@ -1,0 +1,57 @@
+.Dictionary .input-group {
+  display: block;
+  margin: 0 auto;
+}
+.Dictionary input {
+  min-width: 50px;
+  width: 50%;
+  border-radius: 5px;
+  border: 1px solid #a29e9e;
+  color: #888;
+  padding: 5px;
+}
+
+.Dictionary .form-select {
+  width: 26%;
+  min-width: 150px;
+  display: block;
+  margin: 10px auto;
+  font-size: 12px;
+}
+
+.Dictionary .hint {
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.Dictionary .list ul {
+  font-size: 12px;
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+}
+.Dictionary .list li {
+  list-style: none;
+  display: inline-block;
+  padding: 3px;
+}
+
+.Dictionary p {
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.Dictionary .btn-outline-secondary {
+  color: #ffffff;
+  background-color: #842029;
+  border-color: #842029;
+  line-height: 22px;
+  margin-top: -5px;
+  padding: 6px 8px;
+}
+
+.Dictionary .btn-outline-secondary:hover {
+  background-color: #55141a;
+  border-color: #55141a;
+  transition: all 200ms ease-in-out;
+}

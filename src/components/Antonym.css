@@ -1,0 +1,17 @@
+.Antonym span {
+  font-size: 14px;
+}
+.Antonym ul {
+  padding: 2px 20px;
+}
+
+.Antonym li {
+  padding: 0px 6px 4px;
+  margin: 2px;
+  line-height: 20px;
+  list-style: none;
+  display: inline-block;
+  border: solid 1px #d9d7d7;
+  border-radius: 15px;
+  font-size: 14px;
+}
